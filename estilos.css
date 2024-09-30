@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background-color: #4CAF50;
+    background-color:#4c7faf;
     color: white;
     padding: 1rem 0;
     text-align: center;
@@ -40,7 +40,7 @@ main {
 }
 
 section h2 {
-    color: #4CAF50;
+    color: #4c7faf;
 }
 
 article {
@@ -50,7 +50,7 @@ article {
 footer {
     text-align: center;
     padding: 1rem;
-    background-color: #4CAF50;
+    background-color:#4c7faf;
     color: white;
     position: fixed;
     bottom: 0;
